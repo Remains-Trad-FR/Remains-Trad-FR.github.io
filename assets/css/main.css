@@ -147,7 +147,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #28333d;
+		color: #202e21;
 	}
 
 	body, input, select, textarea {
@@ -296,13 +296,13 @@ input, select, textarea {
 	}
 
 	a {
-		color: #213130;
+		color: #b5c200;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #73ff00 !important;
+			color: #fffb00 !important;
 		}
 
 	strong, b {
@@ -310,7 +310,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #212931;
+		color: #5bff8c;
 	}
 
 	blockquote {
@@ -2853,11 +2853,12 @@ input, select, textarea {
 	ul {
 		list-style: disc;
 		margin: 0 0 2rem 0;
-		padding-left: 1rem;
+		padding-left: 16rem;
 	}
 
 		ul li {
-			padding-left: 0.5rem;
+			padding-left: 0.3rem;
+			text-align: left;
 		}
 
 		ul.divided {
